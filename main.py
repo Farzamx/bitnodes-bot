@@ -7,7 +7,7 @@ import json
 
 # 🔑 Replace with your real Telegram bot token from @BotFather
 BOT_TOKEN = "7579053949:AAG5VKJQ9RMY7TM2RTbOtf-7FhOu7hz42wg"
-bot = telebot.TeleBot(7579053949:AAG5VKJQ9RMY7TM2RTbOtf-7FhOu7hz42wg)
+bot = telebot.TeleBot(BOT_TOKEN)
 
 # JSON file to store last node count
 DATA_FILE = "last_node_count.json"
