@@ -1,6 +1,6 @@
 
 
-main.py(import telebot
+main.py(import telebot)
 import requests
 import os
 import json
